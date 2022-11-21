@@ -36,7 +36,7 @@ Similar to `Full Stack Developer` as consultant onsite with client such as `SCB`
 ## Freelance & Personal Projects
 
 - Tetote
-- [SCB-Activities](http://phruek.com/scb-activities/index.html)
+- SCB-Activities
 - ComPract [GitHub](https://github.com/codycoach/ComPract)
 - [BangmodMap](http://codycoach.gitlab.io/bangmod-map/) [GitLab](https://gitlab.com/codycoach/bangmod-map)
 - Line App Simple UI [GitLab](https://gitlab.com/codycoach/React_Native_Line)
